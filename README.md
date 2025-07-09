@@ -4,6 +4,7 @@ A classic Snake Game built with HTML, CSS, and pure JavaScript.
 
 <h3>Preview </h3>
 Clone the repo and open index.html in your browser to start playing instantly.
+
 ![Screenshot 2025-07-09 190003](https://github.com/user-attachments/assets/0f7de4cd-3d48-48fb-b08e-560ecbd1386e)
 
 
