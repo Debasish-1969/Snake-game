@@ -33,7 +33,9 @@ Edit
 git clone https://github.com/YourUsername/snake-game.git
 cd snake-game
 **
+
 2. Open index.html in your browser.
+
 3. Use the arrow keys to navigate the snake.
 
 <h3>How It Works</h3>
