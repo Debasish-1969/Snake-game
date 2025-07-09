@@ -3,6 +3,8 @@ A classic Snake Game built with HTML, CSS, and pure JavaScript.
 
 Preview
 Clone the repo and open index.html in your browser to start playing instantly.
+![image](https://github.com/user-attachments/assets/165649d6-91d3-4b48-bd92-b8a03470c486)
+
 
 Features
 🎯 Smooth and responsive snake movement controlled by arrow keys
