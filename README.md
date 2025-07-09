@@ -27,13 +27,12 @@ Clone the repo and open index.html in your browser to start playing instantly.
 
 <h3>Installation</h3>
 1. Clone the repo:
-
-bash
+**
 Copy
 Edit
 git clone https://github.com/YourUsername/snake-game.git
 cd snake-game
-
+**
 2. Open index.html in your browser.
 3. Use the arrow keys to navigate the snake.
 
