@@ -18,12 +18,12 @@ Clone the repo and open index.html in your browser to start playing instantly.
 
 <h3>Getting Started</h3>
 
-<h5>Prerequisites </h5>
+<h3>Prerequisites </h3>
 A modern web browser (Chrome, Firefox, Edge, etc.)
 
 Basic knowledge of HTML, CSS, and JavaScript
 
-<h5>Installation</h5>
+<h3>Installation</h3>
 Clone the repo:
 
 bash
@@ -35,7 +35,8 @@ Open index.html in your browser.
 
 Use the arrow keys to navigate the snake.
 
-<h5>How It Works</h5>
+<h3>How It Works</h3>
+
 HTML: Sets up a <canvas> element to render the game.
 
 CSS: Centers the canvas and styles the page for a clean look.
@@ -50,16 +51,20 @@ Implements the game loop using setInterval or requestAnimationFrame.
 
 Detects collisions, spawns food randomly, and increases the snake and score upon eating.
 
-</h3>Feel Free To...</h3>
+<h3>Feel Free To...</h3>
+
 Customize grid size, snake speed, or colors
 
 Add new features: difficulty levels, pause/resume, sound effects
 
 Make it mobile-friendly by adjusting controls or UI
 
-</h3>Inspiration</h3>
+<h2>Inspiration</h2>
+
 Inspired by the classic Snake game from early mobile and arcade systems
 
-</h3>✅ Ready to play?</h3>
+
+<h2>✅ Ready to play?</h2>
+
 📥 Download or clone the project and launch index.html.
 Let me know if you'd like help adding features or improving it!
