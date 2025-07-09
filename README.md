@@ -1,4 +1,5 @@
-🐍 Snake Game
+<h1>🐍 Snake Game:</h1>
+
 A classic Snake Game built with HTML, CSS, and pure JavaScript.
 
 Preview
